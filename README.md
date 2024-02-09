@@ -1,3 +1,3 @@
 # betabet
 
-A successor of the alphabet - a toy alphabet and writing system of mine.
+A successor to the alphabet - a toy alphabet and writing system of mine.
